@@ -1,0 +1,17 @@
+主题：AI Agent 一周入门计划
+
+一、把 AI 变成同事
+    1. Turning AI into a coworker, not a chat box.
+
+二、它不会喊累，只会一直错下去。
+
+三、三条落地路径
+    1. 直接用现成产品：Dify / Coze
+    2. 开源自部署：OpenHands
+    3. 自己写：LangGraph
+
+四、判断标准只有一条
+    1. 能自己检查结果
+    2. 它不会回头检查，就不叫 Agent
+
+五、这周，先跑通一个

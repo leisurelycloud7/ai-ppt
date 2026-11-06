@@ -1,0 +1,10 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# 临时渲染目录（LibreOffice Kit 预览）
+.dsh-office-*/
+
+# 系统
+Thumbs.db
+.DS_Store
